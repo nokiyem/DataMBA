@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# tugas_klasifikasi_titanic by Abdullah Eli
 # Titanic data dictionary
 # 
 # #survival:    Survival 
